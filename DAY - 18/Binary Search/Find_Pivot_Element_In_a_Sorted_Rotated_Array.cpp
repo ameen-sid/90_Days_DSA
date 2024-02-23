@@ -2,6 +2,7 @@
 #include<vector>
 using namespace std;
 
+// Time Complexity : O(log N)
 int getPivot(vector<int> arr) {
 
 	int start = 0;
