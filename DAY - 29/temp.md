@@ -1,3 +1,3 @@
 # DAY - 29
 
-### Today i solve one problem of Array `K-Diff Pairs`.
+### Today i solve one problem of Binary Search - `K-Diff Pairs`.
