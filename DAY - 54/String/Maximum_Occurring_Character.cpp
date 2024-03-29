@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-// Time Complexity : O()
-// Space Complexity : O()
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 char getMaxOccChar(string s) {
 
 	int arr[26] = { 0 };
@@ -27,8 +27,7 @@ char getMaxOccChar(string s) {
 		}
 	}
 
-	char finalAns = 'a' + ans;
-	return finalAns;
+	return 'a' + ans;
 }
 
 int main() {
