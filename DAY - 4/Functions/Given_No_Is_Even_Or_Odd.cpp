@@ -21,7 +21,6 @@ bool isEvenB(int n) {
 	return flag;
 }
 
-
 int main() {
 	int num;
 
